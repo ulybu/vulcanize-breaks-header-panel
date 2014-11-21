@@ -1,0 +1,20 @@
+{
+  "name": "vulcanize-breaks-header-panel",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ulybu/vulcanize-breaks-header-panel",
+  "authors": [
+    "Ulysse Prygiel <ulysse.prygiel@hp.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "core-header-panel": "polymer/core-header-panel#^0.5.1"
+  }
+}
